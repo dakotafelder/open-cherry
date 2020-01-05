@@ -1,2 +1,2 @@
-# open-cherry
-Open source font for the keycap designer community
+# Open Cherry
+An open source font based on Cherry legends. Made for the keycap designer community.
