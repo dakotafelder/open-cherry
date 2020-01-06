@@ -3,3 +3,4 @@ An open-source font based on Cherry legends. Made for the keycap designer commun
 
 
 ![](cover_image.png)
+![](specimen.png)
